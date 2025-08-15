@@ -18,6 +18,6 @@ I’m excited to share that I’ve successfully built a Tic Tac Toe Game as part
 
 ### 💡 Through this project, I enhanced my JavaScript logic-building skills, learned about event handling, array manipulation, and DOM updates, while also focusing on building a smooth user experience.
 
-<a href="[https://your-website-link.com" target="_blank](https://luxury-jalebi-0b797e.netlify.app/]">Play Game</a>
+<a href="https://luxury-jalebi-0b797e.netlify.app/">Play Game</a>
 
 #WebDevelopment #JavaScript #HTML #CSS #FrontendDevelopment #TicTacToe #LearningByDoing
